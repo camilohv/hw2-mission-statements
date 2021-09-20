@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-Our mission is to provide customers with the best user experience.
-=======
 Our mission is to provide users a platform for global software development collaboration.
->>>>>>> mission
